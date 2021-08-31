@@ -1,0 +1,5 @@
+*.p12
+*.pfx
+node_modules
+.env.homologacao
+.env.producao
